@@ -18,7 +18,7 @@ SAS Paper-In depth analysis is given on our finding in SAS.
 
 Resume-My Resume can be found here
 
-Tableau Product Recalls Presentation-Obtained a dataset on product recalls from the USDA. Used Tableau prep builder to clean dataset and to establish a join with similiar dataset. Used Tableau Desktop to create visualizations in a story like presentation. Some of the visualizations include a bar chart showing which US states had the most number of product recalls and a box and whisker chart which listed out the products by category and shows where each category ranks in terms of the number of total recalls.
+Tableau Product Recalls Presentation-Obtained a dataset on product recalls from the USDA. Used Tableau prep builder to clean dataset and to establish a join with similiar dataset. Used Tableau Desktop to create visualizations in a story like presentation. Some of the visualizations include a bar chart showing which US states have the most number of product recalls and a box and whisker chart which list out the products by category and shows where each category ranks in terms of the number of total recalls.
 
 UI Path Diplomas of Completion-Screenshots of completions diplomas that were obtained after completing each UI Path training module.
 
