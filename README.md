@@ -1,8 +1,8 @@
-AWS Getting Started With Compute Lab
-
 All badges and certificates-Shows Microsoft Associate and Expert Certifications and badges from AWS
 
 CS260 Final Project-Dataset was found on NBA Statistics. Our dataset had stats from 1997-2021 NBA seasons from 31 teams. We created visualizations in Python to answer several questions we had such as the correlation between points scored and defense/has the average number of points scored in a game changed over time?
+
+Bocce Ball Special Olympics-In MK410 (Marketing & Research) Our group collected survey data from both athletes and particpants within Bocce Ball at the Special Olympics Fall Eastern Section which is hosted by DeSales. The survey questions were set up to look at how satisfied people are with the event at each sport, and answers were measured on a five point scale. Used SPSS to create visualizations and presented to describe our findings/made recommentations to improve the event.
 
 Data Ethics Issues and Solutions-Lists out possible issuses of ethics behind the use of data analytics & AI. Solutions are outlined for each listed issue.
 
