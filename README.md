@@ -26,5 +26,6 @@ UI Path-Overview of the process behind Practice 1 – Build and Run UI Automatio
 
 UI Path Diplomas of Completion-Screenshots of completions diplomas that were obtained after completing each UI Path training module.
 
+Microsoft Azure Trainings-Took courses on training on Microsoft Azure on the topics of Designing Power BI reports, Microsoft 365 Supply Chain Management, and Understanding Data concepts.
 
 
