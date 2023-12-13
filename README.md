@@ -10,8 +10,6 @@ Excel Expert Badge-Issued by Microsoft after passing the Excel Expert Certificat
 
 Exploring Microsoft Azure Project-Ben Shane and I worked together with a dataset on HIV/Aids. The data was obtianed from the US Agency fir International Development. We worked to create several vizualizations to better understand the trends in pricing, spending, and volumes of health commodities delivered by country.
 
-LinkedIn Profile: My LinkedIn Profile can be found using the provided link.
-
 MI353 SAS Final Presentation-My group and I found a dataset on car crashes throughout Pennsylvania. Using SAS Enterprise Miner, we ran many tests to determine various factors that have correltation with car crashes.
 
 SAS Paper-In depth analysis is given on our finding in SAS on PA car crashes.
